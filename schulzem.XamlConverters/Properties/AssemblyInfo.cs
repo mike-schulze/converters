@@ -7,11 +7,11 @@ using System.Windows;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("schulzem.XamlConverters")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle( "Xaml Converters" )]
+[assembly: AssemblyDescription( "Collection of XAML converters" )]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("schulzem.XamlConverters")]
+[assembly: AssemblyCompany("Mike Schulze")]
+[assembly: AssemblyProduct( "Xaml Converters" )]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

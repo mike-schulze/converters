@@ -10,7 +10,7 @@
     <projectUrl>https://github.com/mike-schulze/converters</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
-    <releaseNotes>Initial release.</releaseNotes>
+    <releaseNotes>Changed .NET target to 4.0. Cleaned up sample file.</releaseNotes>
     <copyright>Copyright 2016</copyright>
     <tags>XAML Converters WPF</tags>
   </metadata>
